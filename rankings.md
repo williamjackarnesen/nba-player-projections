@@ -18,3 +18,8 @@ We have included the most-improved and most-regressed players thus far (the metr
 
 ![playerloss](https://github.com/williamjackarnesen/nba-player-projections/raw/main/images/Player_Loss.png)
 
+Finally, we included the best rookies thus far. As you can see, the model thinks only two rookies have contributed in a major way: #3 overall pick LaMelo Ball and #12 overall pick Tyrese Halliburton. In contrast, the model is relatively bearish on players like #1 overall pick Anthony Edwards, who it believes has cost the Timberwolves two wins this year (the most of any player, regardless of year, in the sample). Of course, it goes without saying that early performance of rookies is unimportant--long-term development is far more important to their teams than their performance in the first few games. The over-performance of three players largely drafted below (in some cases, way below) their pre-draft consensus rankings does partially back up previous research (from Sam) that pre-draft consensus rankings are stronger predictors of player performance than ultimate draft selection.  We included only six rookies in the list because only six had positive scores. 
+ 
+![playerloss](https://github.com/williamjackarnesen/nba-player-projections/raw/main/images/Rookies.png)
+
+
