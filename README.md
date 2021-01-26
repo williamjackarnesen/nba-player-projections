@@ -11,5 +11,5 @@ Welcome to the landing page of my side project applying machine learning model t
 Coming soon:
 
 1. <a href="https://williamjackarnesen.github.io/nba-player-projections/Comparisons" title="comparisons">Historical Comparisons</a> 
-2. Player-by-player comparisons
+2. Player similarities and groupings
 3. Draft research
