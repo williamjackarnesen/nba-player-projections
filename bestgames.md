@@ -24,7 +24,7 @@ This post looks at the best individual player performances of the past 10 years.
 | 2 | Kevin Durant |  <a href="https://www.basketball-reference.com/boxscores/201206060OKC.html" title="201206060OKC">2012 WCF Game 6 v SAS </a> | 34 | 5 | 14 | 9/17 | 4/8 | 38.4 |
 | 3 | Kobe Bryant | <a href="https://www.basketball-reference.com/boxscores/201005250PHO.html" title="201005250PHO">2010 WCF Game 4 v PHO </a> | 38 | 10 | 7 | 15/22 | 6/9 | 38.2 |
 | 4 | Jamal Murray | <a href="https://www.basketball-reference.com/boxscores/202008230UTA.html" title="202008230UTA">2020 First Round v UTA </a> | 50 | 7 | 11 | 18/31 | 9/16 | 37.4 |
-| 5 | Rajon Rondo | <a href="https://www.basketball-reference.com/boxscores/201205300MIA.html" title="201205300MIA">2012 ECF v MIA </a> | 44 | 10 | 8 | 16/24 | 2/2 | 36.7 |
+| 5 | Rajon Rondo | <a href="https://www.basketball-reference.com/boxscores/201205300MIA.html" title="201205300MIA">2012 ECF Game 2 v MIA </a> | 44 | 10 | 8 | 16/24 | 2/2 | 36.7 |
 | 6 | LeBron James | <a href="https://www.basketball-reference.com/boxscores/202010090LAL.html" title="202010090LAL">2020 Finals Game 5 v MIA </a> | 40 | 7 | 13 | 15/21 | 6/9 | 36.6 |
 | 7 | Kevin Durant | <a href="https://www.basketball-reference.com/boxscores/201806060CLE.html" title="201806060CLE">2018 Finals Game 3 v CLE </a> | 43 | 7 | 13 | 15/23 | 6/9 | 36.5 |
 | 8 | Stephen Curry | <a href="https://www.basketball-reference.com/boxscores/201905200POR.html" title="201905200POR">2019 WCF Game 4 v POR </a> | 37 | 11 | 13 | 11/25 | 7/16 | 35.8 |
