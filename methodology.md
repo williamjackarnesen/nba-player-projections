@@ -2,6 +2,9 @@
 
 Welcome to the inaugural edition of the NBA Model, where we use simple machine-learning techniques to project NBA performance for the 2020-21 season. In this post, we will cover the basics of the model.
 
+If you're interested in the top-line results, follow <a href="https://williamjackarnesen.github.io/nba-player-projections/rankings" title="Rankings">this link</a>. 
+
+If you want team-by-team rankings, follow <a href="https://williamjackarnesen.github.io/nba-player-projections/team_results" title="Team Rankings">this link</a>. 
 
 ## 1.0 How does it work?
 
