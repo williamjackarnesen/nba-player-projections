@@ -1,5 +1,5 @@
 # Historical Record
-
+I have included below the model's results for best performers over each of the last ten years. 
 
 ## 2020
 ![leaders2020](https://github.com/williamjackarnesen/nba-player-projections/raw/main/images/past_leaders/leaders2020.png)
@@ -31,6 +31,6 @@
 ## 2011
 ![leaders2011](https://github.com/williamjackarnesen/nba-player-projections/raw/main/images/past_leaders/leaders2011.png)
 
-#2010
+## 2010
 ![leaders2010](https://github.com/williamjackarnesen/nba-player-projections/raw/main/images/past_leaders/leaders2010.png)
 
