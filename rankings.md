@@ -1,6 +1,8 @@
 # Initial Player Rankings
 
-If you're interested in the details of the projection models, follow <a href="https://williamjackarnesen.github.io/nba-player-projections/methodology" title="Methodology">this link</a>.
+If you're interested in the details of the projection models, follow <a href="https://williamjackarnesen.github.io/nba-player-projections/methodology" title="Methodology">this link</a>. 
+
+If you want team-by-team rankings, follow <a href="https://williamjackarnesen.github.io/nba-player-projections/team_results" title="Team Rankings">this link</a>. 
 
 ## Wins above Replacement
 
