@@ -1,6 +1,7 @@
 ## Welcome to the NBA Player Projection Model
 
-Welcome to the inaugural edition of the NBA Model, where we use simple machine-learning techniques to project NBA performance for the 2020-21 season. In this post, we will cover the basics of the model as well as some early predictions. If you are only interested in the output, please skip to section two.
+Welcome to the inaugural edition of the NBA Model, where we use simple machine-learning techniques to project NBA performance for the 2020-21 season. In this post, we will cover the basics of the model.
+
 
 ## 1.0 How does it work?
 
