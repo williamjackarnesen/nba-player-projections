@@ -8,6 +8,8 @@ Welcome to the landing page of my side project applying machine learning model t
 
 <a href="https://williamjackarnesen.github.io/nba-player-projections/team_results" title="Team Rankings">Team-by-Team Rankings</a>
 
+<a href="https://williamjackarnesen.github.io/nba-player-projections/history" title="History">Historical Performance</a>
+
 Coming soon:
 
 1. <a href="https://williamjackarnesen.github.io/nba-player-projections/Comparisons" title="comparisons">Historical Comparisons</a> 
