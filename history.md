@@ -34,3 +34,11 @@ I have included below the model's results for best performers over each of the l
 ## 2010
 ![leaders2010](https://github.com/williamjackarnesen/nba-player-projections/raw/main/images/past_leaders/leaders2010.png)
 
+
+<a href="https://williamjackarnesen.github.io/nba-player-projections/" title="Home">Home Page</a> 
+
+<a href="https://williamjackarnesen.github.io/nba-player-projections/methodology" title="Methodology">Model Methodology</a> 
+
+<a href="https://williamjackarnesen.github.io/nba-player-projections/rankings" title="Rankings">Top Performers</a>
+
+<a href="https://williamjackarnesen.github.io/nba-player-projections/team_results" title="Team Rankings">Team-by-Team Rankings</a>
