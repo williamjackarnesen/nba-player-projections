@@ -43,5 +43,10 @@ At first, the computer will randomly generate a series of four numbers and pass 
 So now we need to update our estimates of the player’s skills. Suppose LeBron James has a vector of [0 0 0 0] and his newest game was a performance of [3 4 -2 7] (these are arbitrary numbers—in reality, since we normalized our input data, the numbers are much smaller). The update function will thus update his vector to be closer towards his nearest performance by increasing his first two numbers, slightly lowering his third number, and substantially increasing his fourth. Obviously, we don’t want to move too aggressively towards to new value, as a few great games from a scrub would hardly make him a star no more than a few rough games from James Harden would make him a scrub. Instead, we chose to weight each new one by 1/3√(games played) based on the idea that we should probably update our estimates of a young player more dramatically with each new game than someone with a long resumé. A second-year player with 100 games under his belt would thus have completely replaced his rating in about 30 games, whereas a veteran with 500 games under his belt would replace his over the course of a full season.
 
 
+## 2.0.0 Linear Approximation
+
+Below we have included an approximation of the marginal effect of adding an additional unit to expected points-added per minute (e.g. what is the value of an assist). It's worth noting that this visualization is a linear approximation, but the function is decisively not linear and thus will not accurately reflect the actual added value of an additional assist, for example. It is included merely to provide a rough sense of the magnitudes and parities (as a side note, I have not included every variable as those are largely zero).
+
+![margins](https://github.com/williamjackarnesen/nba-player-projections/raw/main/images/Margins.png)
 
 
