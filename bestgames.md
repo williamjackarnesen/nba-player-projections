@@ -1,6 +1,6 @@
 # Best Games of the Past 10 Years
 
-This post looks at the best individual player performances of the past 10 years. Because games that went to overtime dominated the overall rankings, I have normalized them so the scores are per-48 minutes. As a result, all but one game (#4 Monta Ellis) occured during a game that did not go to overtime. 
+This post looks at the best individual player performances of the past 10 years. Because games that went to overtime dominated the overall rankings, I have normalized them so the scores are per-48 minutes. As a result, all but two games (#4 Monta Ellis and #10 Draymond Green) occured during a game that did not go to overtime. 
 
 |Rank | Player  | Game | PTS | AST | REB | FG | 3P | Score |
 | --- | ------- | ---- | ------ | ------- | -------- | -- | -- | ----- |
@@ -13,4 +13,4 @@ This post looks at the best individual player performances of the past 10 years.
 | 7 | Paul George | <a href="https://www.basketball-reference.com/boxscores/201902110OKC.html" title="201902110OKC">Feb 11, 2019 v POR </a> | 47 | 10 | 12 | 15/26 | 8/13 | 40.1 |
 | 8 | Aaron Gordon | <a href="https://www.basketball-reference.com/boxscores/201711290ORL.html" title="201711290ORL">Nov 29, 2017 v OKC </a> | 40 | 4 | 15 | 13/23 | 6/12 | 39.9 |
 | 9 | Ben Simmons | <a href="https://www.basketball-reference.com/boxscores/202001200BRK.html" title="202001200BRK">Jan 20, 2020 v BRK </a> | 34 | 12 | 12 | 12/14 | 0/0 | 39.1|
-
+| 10 | Draymond Green | <a href="https://www.basketball-reference.com/boxscores/201601020GSW.html" title="201601020GSW">Jan 02, 2016 v DEN </a> | 29 | 14 | 17 | 10/16 | 4/6 | 38.9 |
