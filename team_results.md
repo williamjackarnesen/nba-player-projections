@@ -1,6 +1,10 @@
 # Full Player Rankings
 
-If you are interested in seeing results by team, simply navigate to the appropriate image.
+If you're interested in the details of the projection models, follow <a href="https://williamjackarnesen.github.io/nba-player-projections/methodology" title="Methodology">this link</a>. 
+
+If you want just the top-line rankings, follow <a href="https://williamjackarnesen.github.io/nba-player-projections/rankings" title="Rankings">this link</a>. 
+
+If you're interested in seeing results by team, simply navigate to the appropriate image.
 
 ## Atlanta Hawks
 
