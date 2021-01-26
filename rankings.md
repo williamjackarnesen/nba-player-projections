@@ -16,7 +16,7 @@ Some technical details about this metric: as explained before, our model outputs
 The above chart shows expected net points added per minute a player is on the court. Clearly these numbers are similar to but not identical to the wins added metric from above. Some players (like Karl-Anthony Towns) rank highly in skill (#11) but not in performance (#99) by virtue of playing few minutes. In contrast, the algorithm thinks that other players are just under-performing and will probably improve over the course of the season. 
 
 ## Player Changes
-We have included the most-improved and most-regressed players thus far (the metric is projected wins added more or less than theirs projections at season's start--excluding rookies). The different length of lists reflects natural breakpoints to avoid including/excluding players with near-identical scores.
+We have included the most-improved and most-regressed players thus far (the metric is current season-projected wins minus season-projected wins at season's start--excluding rookies). The different length of lists reflects natural breakpoints to avoid including/excluding players with near-identical scores.
 
 ![playergain](https://github.com/williamjackarnesen/nba-player-projections/raw/main/images/Player_Gain.png)
 
