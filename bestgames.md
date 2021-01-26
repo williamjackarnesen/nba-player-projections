@@ -19,7 +19,7 @@ This post looks at the best individual player performances of the past 10 years.
 
 ## Best Playoff Performances
 |Rank | Player  | Game | PTS | AST | REB | FG | 3P | Score |
-| --- | ------- | ---- | ------ | ------- | -------- | -- | -- | ----- |
+| --- | ------- | ---- | --- | ----| --- | -- | -- | ----- |
 | 1 | Draymond Green | <a href="https://www.basketball-reference.com/boxscores/201606190GSW.html" title="201606190GSW">2016 Finals Game 7 v CLE</a> | 32 | 9 | 15 | 11/15 | 6/8 | 44.1 |
 | 2 | Kevin Durant |  <a href="https://www.basketball-reference.com/boxscores/201206060OKC.html" title="201206060OKC">2012 WCF Game 6 v SAS </a> | 34 | 5 | 14 | 9/17 | 4/8 | 38.4 |
 | 3 | Kobe Bryant | <a href="https://www.basketball-reference.com/boxscores/201005250PHO.html" title="201005250PHO">2010 WCF Game 4 v PHO </a> | 38 | 10 | 7 | 15/22 | 6/9 | 38.2 |
