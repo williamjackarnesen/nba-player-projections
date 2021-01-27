@@ -32,3 +32,20 @@ This post looks at the best individual player performances of the past 10 years.
 | 9 | Jimmy Butler | <a href="https://www.basketball-reference.com/boxscores/202010040MIA.html" title="202010040MIA">2020 Finals Game 3 v MIA </a> | 40 | 13 | 11 | 14/20 | 0/0 | 35.3 |
 | 10 | LeBron James | <a href="https://www.basketball-reference.com/boxscores/201606160CLE.html" title="201606160CLE">2016 Finals Game 6 v GSW</a> | 41 | 11 | 8 | 16/27 | 3/6 | 35.3 |
 
+
+
+## Best Performances This Year
+
+|Rank | Player  | Game | PTS | AST | REB | FG | 3P | Score |
+| --- | ------- | ---- | --- | ----| --- | -- | -- | ----- |
+| 1 | Kevin Durant |  <a href="https://www.basketball-reference.com/boxscores/202101200CLE.html" title="202101200CLE">Jan 20, 2021 v CLE </a> | 38 | 8 | 12 | 12/25 | 3/9 | 36.5 |
+| 2 | LeBron James | <a href="https://www.basketball-reference.com/boxscores/202101250CLE.html" title="202101250CLE">Jan 25, 2021 v CLE</a> | 46 | 6 | 8 | 19/26 | 7/11 | 32.6 |
+| 3 | De'Aaron Fox | <a href="https://www.basketball-reference.com/boxscores/202101170SAC.html" title="202101170SAC">Jan 17, 2021 v NOP </a> | 43 | 14 | 4 | 17/27 | 3/9 | 31.3 |
+| 4 | Damian Lillard | <a href="https://www.basketball-reference.com/boxscores/202101130SAC.html" title="202101130SAC">Jan 13, 2021 v SAC </a> | 40 | 13 | 1 | 11/23 | 6/15 | 31.3 |
+| 5 | James Harden | <a href="https://www.basketball-reference.com/boxscores/202012260POR.html" title="202012260POR">Dec 26, 2020 v POR </a> | 44 | 17 | 4 | 12/21 | 6/13 | 31.1 |
+| 6 | Zach LaVine | <a href="https://www.basketball-reference.com/boxscores/202101100LAC.html" title="202101100LAC">Jan 10, 2021 v LAC </a> | 45 | 7 | 7 | 15/26 | 10/16 | 31.0 |
+| 7 | Malcolm Brogdon | <a href="https://www.basketball-reference.com/boxscores/202101020IND.html" title="202101020IND">Jan 2, 2021 v NYK </a> | 33 | 7 | 3 | 12/18 | 7/10 | 30.8 |
+| 8 | Luka Doncic | <a href="https://www.basketball-reference.com/boxscores/202101250DAL.html" title="202101250DAL">Jan 25, 2021 </a> | 35 | 16 | 11 | 11/23 | 3/8 | 30.6 |
+| 9 | CJ McCollum | <a href="https://www.basketball-reference.com/boxscores/202012260POR.html" title="202012260POR">Dec 26, 2020 v HOU </a> | 44 | 8 | 3 | 17/30 | 9/16 | 30.5 |
+| 10 | Shai Gilgeous-Alexander | <a href="https://www.basketball-reference.com/boxscores/202101150OKC.html" title="202101150OKC">Jan 15, 2021 v CHI </a> | 33 | 10 | 5 | 13/19 | 3/5 | 30.4 |
+
