@@ -45,7 +45,7 @@ This post looks at the best individual player performances of the past 10 years.
 | 5 | James Harden | <a href="https://www.basketball-reference.com/boxscores/202012260POR.html" title="202012260POR">Dec 26, 2020 v POR </a> | 44 | 17 | 4 | 12/21 | 6/13 | 31.1 |
 | 6 | Zach LaVine | <a href="https://www.basketball-reference.com/boxscores/202101100LAC.html" title="202101100LAC">Jan 10, 2021 v LAC </a> | 45 | 7 | 7 | 15/26 | 10/16 | 31.0 |
 | 7 | Malcolm Brogdon | <a href="https://www.basketball-reference.com/boxscores/202101020IND.html" title="202101020IND">Jan 2, 2021 v NYK </a> | 33 | 7 | 3 | 12/18 | 7/10 | 30.8 |
-| 8 | Luka Doncic | <a href="https://www.basketball-reference.com/boxscores/202101250DAL.html" title="202101250DAL">Jan 25, 2021 </a> | 35 | 16 | 11 | 11/23 | 3/8 | 30.6 |
+| 8 | Luka Doncic | <a href="https://www.basketball-reference.com/boxscores/202101250DAL.html" title="202101250DAL">Jan 25, 2021 v DEN </a> | 35 | 16 | 11 | 11/23 | 3/8 | 30.6 |
 | 9 | CJ McCollum | <a href="https://www.basketball-reference.com/boxscores/202012260POR.html" title="202012260POR">Dec 26, 2020 v HOU </a> | 44 | 8 | 3 | 17/30 | 9/16 | 30.5 |
 | 10 | Shai Gilgeous-Alexander | <a href="https://www.basketball-reference.com/boxscores/202101150OKC.html" title="202101150OKC">Jan 15, 2021 v CHI </a> | 33 | 10 | 5 | 13/19 | 3/5 | 30.4 |
 
