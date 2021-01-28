@@ -38,7 +38,7 @@ If you're interested in seeing results by team, simply navigate to the appropria
 
 ![den](https://github.com/williamjackarnesen/nba-player-projections/raw/main/images/team_images/DEN.png)
 
-## Detroit Pisons
+## Detroit Pistons
 
 ![det](https://github.com/williamjackarnesen/nba-player-projections/raw/main/images/team_images/DET.png)
 
