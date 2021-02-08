@@ -205,6 +205,7 @@ def get_scores_and_margins(player_dict,home_name,away_name):
     
     return player_dict, winner, loser
         
+#pull all the data for a given game url    
 def pull_game(gameid, scores):
     
     #get xpath locations
