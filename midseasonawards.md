@@ -36,6 +36,6 @@ The following chart is our projections for performance for the entire year. They
 ### All-Rookie Teams
 We use the same methodology to project rookies. This measure is rather imprecise--rookie skill ratings are far more volatile and rookie awards are based far more on playing time and projection than actual contribution to winning (e.g. a high-usage rookie putting up good counting stats on mediocre efficiency probably doesn't contribute as much to winning games today than a low-usage rookie who makes their threes but is rightly rewarded more at the end of the year). Nevertheless, our model remains highly bullish on LaMelo Ball and Tyrese Halliburton and has recently come around on Anthony Edwards, who now rates as a positive player (after rating near the absolute bottom early in the season).
 
-![allrookie](https://github.com/williamjackarnesen/nba-player-projections/raw/main/images/AllPro.png)
+![allrookie](https://github.com/williamjackarnesen/nba-player-projections/raw/main/images/Rookie_Proj.png)
 
 
