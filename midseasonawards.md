@@ -1,3 +1,6 @@
+Return to <a href="https://williamjackarnesen.github.io/nba-player-projections/" title="Home">home page</a> 
+
+
 # Mid-Season Awards
 
 In honor of tonight's upcoming announcement on the list of All-Star starters, I felt it apropo to include the list of players our model thinks ought be All-Stars. Considering that a 28-30 game sample size is insufficient to judge someone's full All-Star worthiness, I decided to throw in some adjustment for player skill (2/3rds weight to performance-to-date, 1/3rd weight on skill). This adjustment a) probably allows these picks to age a bit better and b) more accurately captures voter behavior in rewarding players who have consistently put up great numbers, even if their availability this year has been less than optimal. I have included 13 for each conference in recognizance of the possibility of an alternate being necessary (or, in the case of the Western Conference, highly likely).
