@@ -38,14 +38,14 @@ This post looks at the best individual player performances of the past 10 years.
 
 |Rank | Player  | Game | PTS | AST | REB | FG | 3P | Score |
 | --- | ------- | ---- | --- | ----| --- | -- | -- | ----- |
-| 1 | Domantas Sabonis |  <a href="https://www.basketball-reference.com/boxscores/202102170MIN.html" title="202102170MIN">Feb 17, 2021 v MIN </a> | 38 | 10 | 17 | 13/21 | 1/2 | 36.7 |
-| 2 | Nikola Jokic | <a href="https://www.basketball-reference.com/boxscores/202102060SAC.html" title="202102060SAC">Feb 06, 2021 v SAC</a> | 50 | 12 | 8 | 20/33 | 3/6 | 36.0 |
-| 3 | James Harden | <a href="https://www.basketball-reference.com/boxscores/202102020BRK.html" title="202102020BRK">Feb 02, 2021 v LAC </a> | 23 | 14 | 12 | 7/15 | 1/6 | 33.3 |
-| 4 | De'Aaron Fox | <a href="https://www.basketball-reference.com/boxscores/202101130SAC.html" title="202101170SAC">Jan 17, 2021 v NOP </a> | 43 | 13 | 4 | 17/27 | 3/9 | 33.0 |
-| 5 | LeBron James | <a href="https://www.basketball-reference.com/boxscores/202101250CLE.html" title="202101250CLE">Jan 25, 2021 v CLE </a> | 46 | 6 | 8 | 19/26 | 7/11 | 32.5 |
-| 6 | Nikola Vucevic | <a href="https://www.basketball-reference.com/boxscores/202102050ORL.html" title="202102050ORL">Feb 05, 2021 v CHI </a> | 43 | 4 | 19 | 17/29 | 4/10 | 32.3 |
-| 7 | James Harden | <a href="https://www.basketball-reference.com/boxscores/202102160PHO.html" title="202102160PHO">Feb 16, 2021 v PHO </a> | 38 | 11 | 7 | 14/22 | 5/11 | 31.9 |
-| 8 | Giannis Antetokounmpo | <a href="https://www.basketball-reference.com/boxscores/202101300CHO.html" title="202101300CHO">Jan 13, 2021 v CHO </a> | 34 | 9 | 18 | 7/17 | 5/10 | 31.7 |
-| 9 | Shai Gilgeous-Alexander | <a href="https://www.basketball-reference.com/boxscores/202101150OKC.html" title="202101150OKC">Jan 15, 2021 v CHI </a> | 33 | 10 | 5 | 13/19 | 3/5 | 31.7 |
-| 10 | Luka Doncic | <a href="https://www.basketball-reference.com/boxscores/202102120DAL.html" title="202102120DAL">Feb 12, 2021 v NOP </a> | 46 | 12 | 8 | 17/30 | 5/8 | 31.0 |
+| 1 | Nikola Vucevic |  <a href="https://www.basketball-reference.com/boxscores/202102190ORL.html" title="202102190ORL">Feb 19, 2021 v GSW </a> | 30 | 10 | 16 | 13/23 | 2/8 | 36.7 |
+| 2 | Domantas Sabonis |  <a href="https://www.basketball-reference.com/boxscores/202102170MIN.html" title="202102170MIN">Feb 17, 2021 v MIN </a> | 38 | 10 | 17 | 13/21 | 1/2 | 36.7 |
+| 3 | Nikola Jokic | <a href="https://www.basketball-reference.com/boxscores/202102060SAC.html" title="202102060SAC">Feb 06, 2021 v SAC</a> | 50 | 12 | 8 | 20/33 | 3/6 | 36.0 |
+| 4 | Jamal Murray | <a href="https://www.basketball-reference.com/boxscores/202102190CLE.html" title="202102190CLE">Feb 19, 2021 v CLE</a> | 50 | 2 | 6 | 21/25 | 8/10 | 33.9 |
+| 5 | James Harden | <a href="https://www.basketball-reference.com/boxscores/202102020BRK.html" title="202102020BRK">Feb 02, 2021 v LAC </a> | 23 | 14 | 12 | 7/15 | 1/6 | 33.3 |
+| 6 | De'Aaron Fox | <a href="https://www.basketball-reference.com/boxscores/202101130SAC.html" title="202101170SAC">Jan 17, 2021 v NOP </a> | 43 | 13 | 4 | 17/27 | 3/9 | 33.0 |
+| 7 | LeBron James | <a href="https://www.basketball-reference.com/boxscores/202101250CLE.html" title="202101250CLE">Jan 25, 2021 v CLE </a> | 46 | 6 | 8 | 19/26 | 7/11 | 32.5 |
+| 8 | Nikola Vucevic | <a href="https://www.basketball-reference.com/boxscores/202102050ORL.html" title="202102050ORL">Feb 05, 2021 v CHI </a> | 43 | 4 | 19 | 17/29 | 4/10 | 32.3 |
+| 9 | James Harden | <a href="https://www.basketball-reference.com/boxscores/202102160PHO.html" title="202102160PHO">Feb 16, 2021 v PHO </a> | 38 | 11 | 7 | 14/22 | 5/11 | 31.9 |
+| 10 | Giannis Antetokounmpo | <a href="https://www.basketball-reference.com/boxscores/202101300CHO.html" title="202101300CHO">Jan 13, 2021 v CHO </a> | 34 | 9 | 18 | 7/17 | 5/10 | 31.7 |
 
